@@ -6,7 +6,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Emergency Hotline Directory</title>
+    <title>Fastline</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
@@ -16,7 +16,7 @@ session_start();
         <div class="container">
             <div class="logo">
                 <i class="fas fa-phone-volume"></i>
-                <h1>Emergency Hotline Directory</h1>
+                <h1>Fastline</h1>
             </div>
         </div>
     </header>
@@ -99,7 +99,7 @@ session_start();
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2026 Emergency Hotline Directory | All numbers verified and updated</p>
+            <p>&copy; 2026 Fastline | All numbers verified and updated</p>
             <div class="contributors">
                 <p><strong>Contributors:</strong></p>
                 <ul>
