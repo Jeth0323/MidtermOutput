@@ -1,4 +1,4 @@
-/ ===== simple state =====
+// ===== simple state =====
 let userLocation = {
 let currentLocation = {
     city: '',
